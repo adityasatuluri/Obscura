@@ -40,6 +40,7 @@ Obscura is an AI-powered redaction tool designed to detect and mask **Personally
    ```
 
 3. **Download the NER Model**:
+   - Download the model from https://huggingface.co/adityasatuluri/obscura-redact
    - Place the fine-tuned model inside `models/`
 
 4. **Run the Streamlit Application**:
